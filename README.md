@@ -1,7 +1,5 @@
 # remove-attr-loader
 
-## Description
-
 Webpack loader. Removed specified HTML attributes
 
 ## Install
